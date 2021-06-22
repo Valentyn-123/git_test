@@ -1,0 +1,1 @@
+This is Valentyn's first git project!
